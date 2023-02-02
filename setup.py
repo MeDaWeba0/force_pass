@@ -11,6 +11,8 @@ num = list("1234567890")
 extra_char = list('"`+*^´Ç}{[]- .:,;<>!|?¿¡#()$£%^&*!')
 char = abc + num + extra_char
 
+print('Press "G"')
+
 def start():
     i = -1 ; i2 = 0 ; i3 = i2 ; i4 = i2 ; i5 = i2 ; i6 = i2 ; i7 = i2 ; i8 = i2 ; i9 = i2 ; i10 = i2 ; i11 = i2 ; i12 = i2 ; i13 = i2 ; i14 = i2 ; i15 = i2 ; i16 = i2
     Nl = int(len(char)) ; todo = ""
